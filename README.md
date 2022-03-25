@@ -7,8 +7,7 @@
 
 <br>
 
-
-## List com database em JSON 
+## Como criar testes e2e em Web APIs com Jest e Node.js
 
 ## 🚀 Tecnologias
 
@@ -21,21 +20,18 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O projeto lista os usuários do banco(em JSON) e mostra os detalhes.
+O projeto para testar test em NodeJS.
 
+Test:
 <p align="center">
   <img alt="pagina inicial" src=".github/imagem1.PNG" width="100%">
-</p>
-
-<p align="center">
-  <img alt="pagina inicial" src=".github/imagem2.PNG" width="100%">
 </p>
 
 ## 🚀 Como Rodar
 
  - Clone o projeto.
  - Entre na pasta do projeto e rode o comando "npm ci --silent" para instalar as dependências.
- - Rode "nodemon index.js" para iniciar o servidor.
+ - Rode "nodemon src/index.js" para iniciar o servidor.
  - Para testar acesse localhost:3000.
 
 ## 🤔 Como contribuir
